@@ -7,9 +7,9 @@ const NotFound = () => {
         <div className={styles.wrapper}>
             <div className={styles.notFound}>
                 <div className={styles.notFound__content}>
-                    <h1 className={styles.notFound__contentHeadline}>Страница не найдена</h1>
+                    <h1 className={styles.notFound__contentHeadline}>Δεν βρέθηκε</h1>
                     <div className={styles.notFound__contentItemBtnWrapper}>
-                        <Link to={routes.HOME}><button className={styles.notFound__contentItemBtn}>На главную</button></Link>
+                        <Link to={routes.HOME}><button className={styles.notFound__contentItemBtn}>Αρχική</button></Link>
                     </div>
                 </div>
             </div>
