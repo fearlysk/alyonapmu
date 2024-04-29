@@ -138,7 +138,7 @@ const Portfolio = () => {
             <div className={styles.main}>
                 <div id="portfolio" className={styles.main__block}>
                     <div className={styles.main__blockHeadline}>
-                       <h1 className={styles.main__blockHeadlineText} style={{textTransform: "uppercase"}}>Χαρτοφυλάκιο</h1>
+                       <h1 className={styles.main__blockHeadlineText}>ΧΑΡΤΟΦΥΛΑΚΙΟ</h1>
                     </div>
                     <div className={styles.main__content}>
                         <div className={styles.main__contentSection}>

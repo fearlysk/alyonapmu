@@ -29,7 +29,7 @@ const Courses = () => {
             <div ref={Courses} className={styles.main}>
                 <div id="courses" className={styles.main__block}>
                     <div className={styles.main__blockHeadline}>
-                       <h1 className={styles.main__blockHeadlineText}>ΚΑΛΥΤΕΡΑ ΣΕΜΙΝΑΡΙΑ</h1>
+                       <h1 className={styles.main__blockHeadlineText}>ΣΕΜΙΝΑΡΙΑ</h1>
                        <p className={styles.main__blockHeadlineSubText}>Βασικά μαθήματα</p>
                     </div>
                     <div className={styles.best__contentBasicCourseWrapper}>

@@ -225,7 +225,7 @@ const Home = () => {
                         <ScrollAnimation animateIn='fadeIn' animateOnce={true}>
                             <div className={styles.achievements__blockHeadline}>
                                 <h1 className={styles.achievements__blockHeadlineText}>ΚΟΣΜΕΤΟΛΟΓΟΣ, ΤΕΧΝΙΤΡΙΑ ΝΥΧΙΩΝ, ΠΟΔΟΛΟΓΟΣ, ΑΙΣΘΗΤΙΚΟΣ-ΣΤΥΛΙΣΤΑΣ, ΤΕΧΝΙΤΡΙΑ ΚΑΙ ΕΚΠΑΙΔΕΥΤΡΙΑ ΗΜΙΜΟΝΙΜΟΥ ΜΑΚΙΓΙΑΖ…<br />
-                                ΠΕΡΙΣΣΟΤΕΡΑ ΑΠΟ 15 ΧΡΟΝΙΑ ΕΜΠΕΙΡΙΑΣ ΜΕ ΕΠΙΤΥΧΙΕΣ ΚΑΙ ΑΠΟΤΥΧΙΕΣ</h1>
+                                ΠΕΡΙΣΣΟΤΕΡΑ ΑΠΟ <span style={{fontFamily: "Serif", fontWeight: "600"}}>15</span> ΧΡΟΝΙΑ ΕΜΠΕΙΡΙΑΣ ΜΕ ΕΠΙΤΥΧΙΕΣ ΚΑΙ ΑΠΟΤΥΧΙΕΣ</h1>
                             </div>
                         </ScrollAnimation>
                         <div className={styles.achievements__content}>
@@ -444,7 +444,7 @@ const Home = () => {
                                     <div className={styles.best__contentItem}>
                                         <div className={styles.best__contentItemTextWrapper}>
                                             <p className={styles.best__contentItemText}><span style={{fontWeight: "600"}}>5 ημέρες θεωρίας και πρακτικής</span>, για να είσαι έτοιμος ασκούμενος τεχνίτης ημιμόνιμου μακιγιάζ!</p>
-                                            <p className={styles.best__contentItemText}>Σε 5 ημέρες θα σας παρουσιάσω τις πιο χρήσιμες πληροφορίες, τις <span style={{fontWeight: "600"}}>εμπειρία πάνω στις πιο δημοφιλείς τεχνικές</span> για το πιο φυσικό και εκλεπτυσμένο αποτέλεσμα!</p>
+                                            <p className={styles.best__contentItemText}>Σε 5 μέρες θα σας παρουσιάσω τις πιο χρήσιμες πληροφορίες και την<span style={{fontWeight: "600"}}> εμπειρία μου πάνω στις πιο δημοφιλείς τεχνικές</span> για το πιο φυσικό και εκλεπτυσμένο αποτέλεσμα!</p>
                                         </div>
                                     </div>
                                 </div>

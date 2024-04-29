@@ -68,7 +68,7 @@ const Services = () => {
             <div ref={Services} className={styles.main}>
                 <div id="services" className={styles.main__block}>
                     <div className={styles.main__blockHeadline}>
-                       <h1 className={styles.main__blockHeadlineText} style={{textTransform: "uppercase"}}>Υπηρεσίες</h1>
+                       <h1 className={styles.main__blockHeadlineText}>ΥΠΗΡΕΣΙΕΣ</h1>
                        <p className={styles.main__blockHeadlineSubText}>Τεχνικές Permanent Makeup:</p>
                     </div>
                     <div className={styles.main__content}>
